@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Colorcoder",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"EasyMotion",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JSCS-Formatter",
+		"JsFormat",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Flatland",
+		"Theme - Monokai",
+		"Theme - Soda",
+		"Zen Tabs"
+	]
+}
