@@ -15,18 +15,22 @@
 		"DocBlockr",
 		"EasyMotion",
 		"Emmet",
+		"FileBrowser",
 		"FileDiffs",
 		"Git",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"JSCS-Formatter",
 		"JsFormat",
+		"MarkdownEditing",
 		"Package Control",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"Theme - Flatland",
 		"Theme - Monokai",
 		"Theme - Soda",
+		"Twig",
 		"Zen Tabs"
 	]
 }
