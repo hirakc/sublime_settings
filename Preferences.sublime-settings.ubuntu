@@ -20,7 +20,7 @@
 	],
 	"scroll_past_end": true,
 	"tab_completion": false,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
