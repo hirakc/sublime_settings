@@ -7,6 +7,7 @@
 	[
 		"1337 Color Scheme",
 		"AdvancedNewFile",
+		"Babel",
 		"BracketHighlighter",
 		"BufferScroll",
 		"Colorcoder",
@@ -24,12 +25,15 @@
 		"JsFormat",
 		"MarkdownEditing",
 		"Package Control",
+		"React and React Router Snippets",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter-jsxhint",
 		"Theme - Flatland",
 		"Theme - Monokai",
 		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
 		"Twig",
 		"Zen Tabs"
 	]
